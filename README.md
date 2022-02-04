@@ -1,8 +1,6 @@
-# SPOTSHARE - CLIENT
+# SPOTSHARE - SERVER
+Server for https://github.com/FeroHriadel/spotshareclient
 
 ## Description
-A GraphQL/Apollo app with some CSS experiments on the client
-
-## Technologies
-React, Apollo, Node/Express/GraphQL 
+Node/Express/GraphQL API
 
